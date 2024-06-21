@@ -20,7 +20,7 @@
 </div>
 
 <h3>Contact</h3>
-<div align="center">
+<div>
   <a href="mailto:kdw24739577@gmail.com">
     <img
       src="https://img.shields.io/badge/kdw24739577@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
